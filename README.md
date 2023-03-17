@@ -5,7 +5,7 @@
 * [Bruno Ideriha Sugahara](https://github.com/BrunoSugahara) 
 
 ## Proposta do trabalho final
-Escolher um dos temas ensinados durante as aulas de Álgebra Linear e desenvolver tanto a parte teórica quanto alguma aplicação em Python do referido tema.
+Escolher um dos temas ensinados durante as aulas de Álgebra Linear e Aplicações e desenvolver tanto a parte teórica quanto alguma aplicação em Python do referido tema.
 
 ## Como funciona
 Os dados dos animes foram retirados diretamente do [Kaggle](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) e os dados das listas índividuais usadas durante os testes foram adquiridos por um formulário do google forms. 
