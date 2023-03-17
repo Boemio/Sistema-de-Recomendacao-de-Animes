@@ -1,4 +1,4 @@
-# Sistema de Recomendação de Animes por Colaborative filtering
+# Sistema de Recomendação de Animes por Colaborative Filtering
   
 * [Vinícius de Moraes](https://github.com/Boemio)
 * [Raul Ribeiro Teles](https://github.com/raultel) 
