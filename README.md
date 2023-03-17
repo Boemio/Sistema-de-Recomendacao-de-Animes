@@ -1,5 +1,5 @@
-# Sistema de Recomendação de Animes
-
+# Sistema de Recomendação de Animes por Colaborative filtering
+  
 * [Vinícius de Moraes](https://github.com/Boemio)
 * [Raul Ribeiro Teles](https://github.com/raultel) 
 * [Bruno Ideriha Sugahara](https://github.com/BrunoSugahara) 
